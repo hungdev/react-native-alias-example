@@ -20,7 +20,7 @@ step2: config .babelrc like this:
   "presets": [
     "module:metro-react-native-babel-preset"
   ],
-  `"plugins": [
+  "plugins": [
     [
       "module-resolver",
       {
@@ -38,16 +38,21 @@ step2: config .babelrc like this:
           "app": "./src",
         }
       }
-    ]`
+    ]
   ]
 }
 ```
 
 step3: use, import:
-```
+
 like this
+```
 import Demo from 'app/Demo'
+```
+
 or like this
+
+```
 import App from 'app'
 ```
 
