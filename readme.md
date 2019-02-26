@@ -3,7 +3,7 @@ this example is a demo of lib: https://github.com/tleunen/babel-plugin-module-re
 
 note:
 
-babel-plugin-module-resolver doest work when import from App.js (root tree)
+babel-plugin-module-resolver doesn't work when import from App.js (root tree)
 
 
 docs: https://github.com/tleunen/babel-plugin-module-resolver/blob/master/DOCS.md
