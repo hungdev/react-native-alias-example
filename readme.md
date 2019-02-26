@@ -5,6 +5,8 @@ note:
 
 babel-plugin-module-resolver doesn't work when import from App.js (root tree)
 
+** See more [Issue](https://github.com/hungdev/react-native-alias-example/issues/1#issuecomment-457250312)
+
 
 docs: https://github.com/tleunen/babel-plugin-module-resolver/blob/master/DOCS.md
 
