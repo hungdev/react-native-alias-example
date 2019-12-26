@@ -59,3 +59,4 @@ import App from 'app'
 ```
 
 
+for react, read here https://www.robinwieruch.de/babel-module-resolver
